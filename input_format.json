@@ -1,0 +1,18 @@
+{
+    "values": [
+        {
+            "recordId": "0",
+            "data": {
+                "field_1": "Hello world, Hi world",
+                "field_2": "Random string"
+            }
+        },
+        {
+            "recordId": "1",
+            "data": {
+                "field_1": "Random chunk",
+                "field_2": "This is a random chunk of text"
+            }
+        }
+    ]
+}
