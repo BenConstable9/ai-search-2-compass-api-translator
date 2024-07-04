@@ -68,7 +68,6 @@ async def ai_search_2_compass(req: func.HttpRequest) -> func.HttpResponse:
         
     Returns:
         func.HttpResponse: The HTTP response object."""
-
     logging.info("Python HTTP trigger function processed a request.")
 
     try:
